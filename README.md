@@ -1,0 +1,1 @@
+This project is based on the tutorial from the article https://magiclen.org/git-recovery/
